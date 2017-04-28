@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "React Native Component",
+    "children": [
+      {
+        "caption" : "New Component...",
+        "command" : "sidebar_new_rn_component",
+        "args": {
+          "paths": []
+        }
+      }
+    ]
+  }
+]
