@@ -1,10 +1,17 @@
 [
   {
-    "caption": "React Native Component",
+    "caption": "React Component",
     "children": [
       {
-        "caption" : "New Component...",
+        "caption" : "New Native Component...",
         "command" : "sidebar_new_rn_component",
+        "args": {
+          "paths": []
+        }
+      },
+      {
+        "caption" : "New Web Component...",
+        "command" : "sidebar_new_rw_component",
         "args": {
           "paths": []
         }
